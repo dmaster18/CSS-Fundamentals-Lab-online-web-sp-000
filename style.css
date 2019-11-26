@@ -10,8 +10,10 @@ header{
 
 #featured-property p{
   display: block;
+  margin-left: auto;
   text-align: center;
   width: 50%;
+  
 }
 
 img{
