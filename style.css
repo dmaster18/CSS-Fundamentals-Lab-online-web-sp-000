@@ -20,6 +20,7 @@ header{
 #details{
   display: block;
   padding: 50px;
+  width: 50%;
   text-align: center;
 }
 
