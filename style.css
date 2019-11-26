@@ -22,8 +22,9 @@ header{
 }
 
 #details div{
+    display: block;
   background-color: rgb(255,0,0);
-  display: block;
+
   float: left;
   text-align: center;
 }
