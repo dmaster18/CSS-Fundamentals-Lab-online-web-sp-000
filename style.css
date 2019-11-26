@@ -18,13 +18,12 @@ header{
 }
 
 #details{
-
+  width: 100%;
 }
 
 #details div{
   display: block;
   background-color: rgb(255,0,0);
-  width: 100%;
   float: left;
   text-align: center;
 }
