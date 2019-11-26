@@ -19,12 +19,13 @@ header{
 
 #details{
   background-color: rgb(255,0,0);
-  display: block;
+
   margin-left: auto;
   margin-right: auto;
 }
 
 #details div{
+    display: block;
   background-color: rgb(255,0,0);
   float: left;
   text-align: center;
