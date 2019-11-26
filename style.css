@@ -14,7 +14,10 @@ img{
   margin-right: auto;
 }
 
-fig-caption
+fig-caption{
+  text-align: center;
+  
+}
 
 #details{
   background-color: rgb(255,0,0);
