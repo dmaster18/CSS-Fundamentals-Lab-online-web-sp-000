@@ -18,7 +18,7 @@ header{
 }
 
 #details{
-  height: auto;
+  display: block;
   
 }
 
