@@ -19,12 +19,12 @@ header{
 
 #details{
   display: block;
-  text-align: center;
   background-color: rgb(255,0,0);
 }
 
 #details div{
   float: left;
+    text-align: center;
 }
 
 
