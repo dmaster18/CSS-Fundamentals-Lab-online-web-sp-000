@@ -18,10 +18,11 @@ header{
 }
 
 #details{
-  background-color: rgb(255,0,0);
+
 }
 
 #details div{
+    background-color: rgb(255,0,0);
   display: block;
   background-color: rgb(255,0,0);
   float: left;
