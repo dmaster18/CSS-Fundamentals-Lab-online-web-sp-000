@@ -9,7 +9,7 @@ header{
 }
 
 
-img, section#featured-property p{
+img, #featured-property p{
   display: block;
   margin-left: auto;
   margin-right: auto;
